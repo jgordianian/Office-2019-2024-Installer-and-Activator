@@ -1,0 +1,8 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="" SourcePath="C:\Users\jonah\Downloads\office_2019-2024\">
+    <Product ID="">
+      <Language ID="" />
+    </Product>
+  </Add>
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>

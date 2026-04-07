@@ -1,0 +1,7 @@
+<Configuration>
+  <Add>
+    <Product ID="    ProPlus2024Volume">
+    </Product>
+  </Add>
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
