@@ -1,13 +1,10 @@
-============================================================ 
-Inicio: dom 22/02/2026 20:41:16.66 
-============================================================ 
-Script: instalar-y-activar-office.cmd 
-Version: 1.0.1 
-Autor: Jonah Ian Gordian 
-BasePath: C:\Users\jonah\Downloads\office_2019-2024\ 
-KMS: kms.srv.crsoo.com 
- 
-dom 22/02/2026 20:41:19.90 - Idioma interfaz: ES
-dom 22/02/2026 20:41:21.78 - Creando install.xml (Channel=, ProductID=, SourcePath=C:\Users\jonah\Downloads\office_2019-2024\)
-dom 22/02/2026 20:41:21.81 - Iniciando instalacion... (puede tardar varios minutos)
-dom 22/02/2026 20:41:23.23 - ERROR: Fallo la instalacion (revise log.txt)
+============================================================
+Start: lun 06/04/2026 20:34:16.87
+============================================================
+Script: run.cmd
+Version: 1.1.0
+Author: Jonah Ian Gordian
+BasePath: C:\Users\jonah\Documents\GitHub\Office 2019-2024 Installer and Activator\
+
+lun 06/04/2026 20:34:18.32 - UI language: EN
+lun 06/04/2026 20:34:24.07 - Exiting by user option
