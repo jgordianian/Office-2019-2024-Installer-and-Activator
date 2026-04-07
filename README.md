@@ -51,7 +51,7 @@ If another Office edition is detected, the script will not modify it automatical
 ## How to Use
 
 1. Place `setup.exe` in the same folder as `run.cmd`.
-2. Run `irun.cmd`.
+2. Run `run.cmd`.
 3. Accept the administrator prompt if Windows requests elevation.
 4. Select the interface language.
 5. Choose one of the menu options:
