@@ -27,6 +27,7 @@ The main entry point is `run.cmd`.
 - `configuration-Office365-x64.xml`: Additional ODT configuration file
 - `install.xml`: Generated or reused Office install configuration
 - `addlang.xml`: Generated or reused language install configuration
+- `docs/kms-client-setup-keys.md`: Reference list of Microsoft KMS client setup keys (GVLK)
 - `log.txt`: Execution log
 
 ## Features
@@ -106,6 +107,7 @@ All operations are written to `log.txt`, including:
 
 - Use this script only with properly licensed Microsoft products.
 - Use KMS activation only against an authorized KMS host.
+- KMS client setup keys (GVLK) reference (do not activate by themselves): `docs/kms-client-setup-keys.md`.
 - Office activation uses `ospp.vbs`.
 - Windows activation uses `slmgr.vbs`.
 - The script is intended for supported Office volume editions only.
@@ -139,6 +141,7 @@ El archivo principal es `run.cmd`.
 - `configuration-Office365-x64.xml`: Archivo adicional de configuracion de ODT
 - `install.xml`: Configuracion generada o reutilizada para instalar Office
 - `addlang.xml`: Configuracion generada o reutilizada para instalar idiomas
+- `docs/kms-client-setup-keys.md`: Tabla de referencia de claves KMS client setup (GVLK) de Microsoft
 - `log.txt`: Registro de ejecucion
 
 ## Caracteristicas
@@ -218,6 +221,7 @@ Todas las operaciones se escriben en `log.txt`, incluyendo:
 
 - Use este script solo con productos Microsoft correctamente licenciados.
 - Use activacion KMS solo contra un host KMS autorizado.
+- Tabla de referencia de claves KMS client setup (GVLK) (no activan por si solas): `docs/kms-client-setup-keys.md`.
 - La activacion de Office usa `ospp.vbs`.
 - La activacion de Windows usa `slmgr.vbs`.
 - El script esta pensado solo para ediciones Office Volume compatibles.

@@ -273,7 +273,7 @@ set "TXT_NO_SLMGR=ERROR: slmgr.vbs was not found. Windows activation files are m
 set "TXT_WIN_ACTIVATING=Activating Windows via KMS host"
 set "TXT_WIN_ACT_FAIL=ERROR: Windows activation failed. Review log.txt."
 set "TXT_WIN_ACT_DONE=Windows activation completed."
-set "TXT_LICENSE_NOTE=License note: activate Microsoft products only against an authorized KMS host."
+set "TXT_LICENSE_NOTE=Activation done."
 exit /b 0
 
 :SET_TEXT_ES
@@ -324,7 +324,7 @@ set "TXT_NO_SLMGR=ERROR: No se encontro slmgr.vbs. Faltan los archivos de activa
 set "TXT_WIN_ACTIVATING=Activando Windows via host KMS"
 set "TXT_WIN_ACT_FAIL=ERROR: Fallo la activacion de Windows. Revise log.txt."
 set "TXT_WIN_ACT_DONE=Activacion de Windows completada."
-set "TXT_LICENSE_NOTE=Nota de licencia: active productos Microsoft solo contra un host KMS autorizado."
+set "TXT_LICENSE_NOTE=Activacion Lista."
 exit /b 0
 
 :PROMPT_PRIMARY_LANGUAGE
